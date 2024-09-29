@@ -1,0 +1,1 @@
+streamlit run "C:\Users\kesha\OneDrive\Desktop\Practicum-04\deployment.py"
